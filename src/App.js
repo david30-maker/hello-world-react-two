@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Greeting from './components/Greeting';
 
 const App = () => {
@@ -10,14 +10,14 @@ const App = () => {
           <ul>
             <li>
               <Link to="/">Home</Link>
-              </li>
-              </ul>
+            </li>
+          </ul>
         </nav>
 
-        <Switch>
-          <Route path="/" exact component ={Greeting} />
-          </Switch>
-        </div>
+        <Routes>
+          <Route path="/" element={<Greeting />} />
+        </Routes>
+      </div>
     </Router>
   );
 };
