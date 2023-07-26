@@ -21,11 +21,9 @@
 
 <a name="about-project"></a>
 
-# Hello React
-
 This is hello world  application
 
-<p align="right">(<a href="git@github.com:david30-maker/hello-world-two-project.git">link to Rails API</a>)</p>
+<p align="right">(<a href="https://github.com/david30-maker/hello-world-two-project/tree/feature">link to Rails API</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,9 +82,11 @@ To run tests, run the following command:
 - Twitter: [@davidigbo1](https://twitter.com/davidigbo1)
 - LinkedIn: [davidigbo/](https://www.linkedin.com/in/davidigbo/)
 
-<!-- FUTURE FEATURES -->
+
 
 ## 🔭 Future Features <a name="future-features"></a>
+
+- [Add_button]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,14 +112,10 @@ If you like this project don't doubt on make any comments or try to reach me out
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Thnks to [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) as his design was used 🔰
-- Friends 🙌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,6 +123,6 @@ If you like this project don't doubt on make any comments or try to reach me out
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](/LICENSE) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
